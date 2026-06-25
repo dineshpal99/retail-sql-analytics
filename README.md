@@ -548,4 +548,4 @@ WITH (
 
 ---
 
-*Built by: [Dinesh Pal] · SQL Server (T-SQL) · Sample Superstore (Kaggle) · 2024*
+*Built by: Dinesh Pal · SQL Server (T-SQL) · Sample Superstore (Kaggle) · 2024*
