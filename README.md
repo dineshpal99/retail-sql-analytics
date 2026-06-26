@@ -76,8 +76,7 @@ Retail-sql-analytics/
 
 ### Step 1 — Download dataset
 ```
-client: https://www.client.com/datasets/vivek468/Retail-dataset-final
-File: Retail.csv
+File: retail_data.csv
 ```
 
 ### Step 2 — Clean the CSV (required before import)
